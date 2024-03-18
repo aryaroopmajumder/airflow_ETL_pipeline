@@ -1,0 +1,11 @@
+
+.idea/
+.vs/
+.settings/
+*.pyc
+Thumbs.db
+ehthumbs.db
+
+
+*.swp
+*.log
